@@ -1,0 +1,13 @@
+Cardgame
+
+turnbased
+different rarity cards
+each player has health
+some cards do damage
+some cards can target others random
+some gamble cards that could do possitive or negative effects
+a King Bolomon card that boosts your luck
+banana card that gives you health
+basic effects like skip turns and reverse order
+possibly a card like a "nope" from kittens though would be high rarity
+increase time of games by increasing health of players
